@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">WaterHarmonizer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_wh">Water Harmonizer</string>
+    <string name="title_activity_about">Water Harmonizer</string>
+
+</resources>
